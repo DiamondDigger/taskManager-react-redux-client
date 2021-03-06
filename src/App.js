@@ -1,5 +1,6 @@
 import "./App.css";
 import TableOfData from "./components/DataLayer/TableOfData";
+import FormAddTask from "./components/FormLayer/FormAddTask";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <h1>React is here!</h1>
       </div>
       <TableOfData />
+      <FormAddTask />
     </div>
   );
 }

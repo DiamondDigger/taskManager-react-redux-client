@@ -4,7 +4,7 @@ import ListOfKeys from "./ListOfKeys";
 import MainSection from "./MainSection";
 import Footer from "./Footer";
 //styles
-import "../styles/tableOfData.css";
+import "../styles/table/tableOfData.css";
 
 const TableOfData = () => {
   return (
