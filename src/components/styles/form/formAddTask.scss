@@ -40,8 +40,19 @@ textarea:focus {
 
 textarea {
   vertical-align: top;
+  resize: none;
 
   height: 5em;
+}
+
+input:invalid,
+textarea:invalid {
+  border: 1px solid pink;
+}
+
+input:valid,
+textarea:valid {
+  border: 1px solid lime;
 }
 
 .button {
