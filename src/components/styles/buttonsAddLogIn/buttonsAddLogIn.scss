@@ -1,0 +1,16 @@
+.addLogIn {
+  div {
+    margin: 0, auto;
+    text-align: center;
+  }
+  button {
+    font-size: 30px;
+    background-color: white;
+    border: none;
+    outline: none;
+    margin: 0.2em 1em;
+  }
+  button:hover {
+    background-color: lightgrey;
+  }
+}

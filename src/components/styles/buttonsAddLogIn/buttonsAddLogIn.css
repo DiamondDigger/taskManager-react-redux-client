@@ -1,0 +1,17 @@
+.addLogIn div {
+  margin: 0, auto;
+  text-align: center;
+}
+
+.addLogIn button {
+  font-size: 30px;
+  background-color: white;
+  border: none;
+  outline: none;
+  margin: 0.2em 1em;
+}
+
+.addLogIn button:hover {
+  background-color: lightgrey;
+}
+/*# sourceMappingURL=buttonsAddLogIn.css.map */
