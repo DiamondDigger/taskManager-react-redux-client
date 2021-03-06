@@ -26,6 +26,7 @@ const FormAddTask = () => {
         </li>
         <li className="button">
           <button type="submit">Save your task</button>
+          <button type="button">Cancel</button>
         </li>
       </ul>
     </form>
