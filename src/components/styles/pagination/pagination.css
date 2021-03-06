@@ -1,3 +1,7 @@
+.pagination div {
+  margin: 0, auto;
+}
+
 .pagination nav {
   display: -webkit-box;
   display: -ms-flexbox;
