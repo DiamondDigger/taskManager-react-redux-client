@@ -41,6 +41,7 @@ const FormEditTask = () => {
         </li>
         <li className="button">
           <button type="submit">Save edited task</button>
+          <button type="button">Cancel</button>
         </li>
       </ul>
     </form>
